@@ -1,0 +1,15 @@
+C:\РАБ\FPS\FPS_Task_03\FPS_Task_03\bin\Debug\net6.0\FPS_Task_03.exe
+C:\РАБ\FPS\FPS_Task_03\FPS_Task_03\bin\Debug\net6.0\FPS_Task_03.deps.json
+C:\РАБ\FPS\FPS_Task_03\FPS_Task_03\bin\Debug\net6.0\FPS_Task_03.runtimeconfig.json
+C:\РАБ\FPS\FPS_Task_03\FPS_Task_03\bin\Debug\net6.0\FPS_Task_03.dll
+C:\РАБ\FPS\FPS_Task_03\FPS_Task_03\bin\Debug\net6.0\FPS_Task_03.pdb
+C:\РАБ\FPS\FPS_Task_03\FPS_Task_03\obj\Debug\net6.0\FPS_Task_03.csproj.AssemblyReference.cache
+C:\РАБ\FPS\FPS_Task_03\FPS_Task_03\obj\Debug\net6.0\FPS_Task_03.GeneratedMSBuildEditorConfig.editorconfig
+C:\РАБ\FPS\FPS_Task_03\FPS_Task_03\obj\Debug\net6.0\FPS_Task_03.AssemblyInfoInputs.cache
+C:\РАБ\FPS\FPS_Task_03\FPS_Task_03\obj\Debug\net6.0\FPS_Task_03.AssemblyInfo.cs
+C:\РАБ\FPS\FPS_Task_03\FPS_Task_03\obj\Debug\net6.0\FPS_Task_03.csproj.CoreCompileInputs.cache
+C:\РАБ\FPS\FPS_Task_03\FPS_Task_03\obj\Debug\net6.0\FPS_Task_03.dll
+C:\РАБ\FPS\FPS_Task_03\FPS_Task_03\obj\Debug\net6.0\refint\FPS_Task_03.dll
+C:\РАБ\FPS\FPS_Task_03\FPS_Task_03\obj\Debug\net6.0\FPS_Task_03.pdb
+C:\РАБ\FPS\FPS_Task_03\FPS_Task_03\obj\Debug\net6.0\FPS_Task_03.genruntimeconfig.cache
+C:\РАБ\FPS\FPS_Task_03\FPS_Task_03\obj\Debug\net6.0\ref\FPS_Task_03.dll

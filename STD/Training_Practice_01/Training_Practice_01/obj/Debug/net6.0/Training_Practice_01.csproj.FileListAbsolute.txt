@@ -1,0 +1,15 @@
+C:\РАБ\FPS\Training_Practice_01\Training_Practice_01\bin\Debug\net6.0\Training_Practice_01.exe
+C:\РАБ\FPS\Training_Practice_01\Training_Practice_01\bin\Debug\net6.0\Training_Practice_01.deps.json
+C:\РАБ\FPS\Training_Practice_01\Training_Practice_01\bin\Debug\net6.0\Training_Practice_01.runtimeconfig.json
+C:\РАБ\FPS\Training_Practice_01\Training_Practice_01\bin\Debug\net6.0\Training_Practice_01.dll
+C:\РАБ\FPS\Training_Practice_01\Training_Practice_01\bin\Debug\net6.0\Training_Practice_01.pdb
+C:\РАБ\FPS\Training_Practice_01\Training_Practice_01\obj\Debug\net6.0\Training_Practice_01.csproj.AssemblyReference.cache
+C:\РАБ\FPS\Training_Practice_01\Training_Practice_01\obj\Debug\net6.0\Training_Practice_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\РАБ\FPS\Training_Practice_01\Training_Practice_01\obj\Debug\net6.0\Training_Practice_01.AssemblyInfoInputs.cache
+C:\РАБ\FPS\Training_Practice_01\Training_Practice_01\obj\Debug\net6.0\Training_Practice_01.AssemblyInfo.cs
+C:\РАБ\FPS\Training_Practice_01\Training_Practice_01\obj\Debug\net6.0\Training_Practice_01.csproj.CoreCompileInputs.cache
+C:\РАБ\FPS\Training_Practice_01\Training_Practice_01\obj\Debug\net6.0\Training_Practice_01.dll
+C:\РАБ\FPS\Training_Practice_01\Training_Practice_01\obj\Debug\net6.0\refint\Training_Practice_01.dll
+C:\РАБ\FPS\Training_Practice_01\Training_Practice_01\obj\Debug\net6.0\Training_Practice_01.pdb
+C:\РАБ\FPS\Training_Practice_01\Training_Practice_01\obj\Debug\net6.0\Training_Practice_01.genruntimeconfig.cache
+C:\РАБ\FPS\Training_Practice_01\Training_Practice_01\obj\Debug\net6.0\ref\Training_Practice_01.dll
